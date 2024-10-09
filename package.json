@@ -23,7 +23,7 @@
     "@nanostores/react": "^0.7.3",
     "@types/react": "^18.3.8",
     "@types/react-dom": "^18.3.0",
-    "astro": "^4.15.8",
+    "astro": "^4.15.12",
     "astro-vtbot": "^1.9.4",
     "flowbite-react": "^0.8.0",
     "isomorphic-dompurify": "^2.15.0",
